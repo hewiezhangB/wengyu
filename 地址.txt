@@ -1,0 +1,6 @@
+https://github.com/hewiezhangB/document.git
+https://github.com/hewiezhangB/wengyu.git
+E:\gapsV5\NoneGapsProject\Dev\Gapsstudio
+git checkout -b dev
+[http]  
+postBuffer = 524288000
