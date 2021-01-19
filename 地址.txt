@@ -4,3 +4,5 @@ E:\gapsV5\NoneGapsProject\Dev\Gapsstudio
 git checkout -b dev
 [http]  
 postBuffer = 524288000
+
+https://github.com/Tencent/TencentKona-8
